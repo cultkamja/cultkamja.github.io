@@ -1,2 +1,3 @@
 # thinkall.github.com
-For my text
+Introduce my planning knowledge and life insight.
+Welcome!
